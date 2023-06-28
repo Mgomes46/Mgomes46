@@ -5,6 +5,8 @@
   <a href="[https://www.linkedin.com/in/moises-gomes-58b427233]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br/>
 
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+
 
   ## Tecnologias que eu uso no meu dia
   
